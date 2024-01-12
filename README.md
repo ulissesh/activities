@@ -1,3 +1,3 @@
-# MySQL
+# Python e MySQL
 
-Atividades acadêmicas relacionadas a Banco de Dados MySQL.
+Atividades acadêmicas relacionadas a Python e Banco de Dados MySQL.
